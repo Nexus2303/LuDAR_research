@@ -15,5 +15,13 @@
       "key": "E"
     }
   ],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
 }
