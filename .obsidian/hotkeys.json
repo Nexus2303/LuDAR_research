@@ -1,0 +1,19 @@
+{
+  "obsidian-style-settings:show-style-settings-leaf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-excalidraw-plugin:toggle-excalidraw-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:save-file": []
+}
