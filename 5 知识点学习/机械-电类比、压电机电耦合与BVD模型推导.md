@@ -149,7 +149,7 @@ Z_{\mathrm{elec}}(\omega)
 =
 \frac{\tilde V}{\tilde I}
 =
-R+j\omega L+rac{1}{j\omega C}.
+R+j\omega L+\frac{1}{j\omega C}.
 $$
 
 它与机械阻抗
@@ -157,7 +157,7 @@ $$
 $$
 Z_{\mathrm{mech}}(\omega)
 =
-b+j\omega m+rac{1}{j\omega C_{\mathrm{mech}}}
+b+j\omega m+\frac{1}{j\omega C_{\mathrm{mech}}}
 $$
 
 具有完全相同的代数结构。因此在“力—电压类比”，也称阻抗类比中，有以下对应关系：
@@ -370,7 +370,7 @@ BVD 总导纳与总阻抗分别为
 $$
 Y_{\mathrm{BVD}}(\omega)
 =
-j\omega C_0+rac{1}{Z_m(\omega)},
+j\omega C_0+\frac{1}{Z_m(\omega)},
 $$
 
 $$
@@ -785,4 +785,3 @@ $$
 ## 14. 一句话总结整个物理链条
 
 压电探头受到电压后产生力和振动，振动速度又产生运动电流；质量、弹性和阻尼决定机械阻抗，压电耦合把该机械阻抗按 $1/n^2$ 折算到电端口，形成 BVD 的 $R_m$、$L_m$、$C_m$ 支路，并与静态电容 $C_0$ 并联，所以阻抗分析仪能够从端口电流随频率的变化中间接看到探头的机械谐振、反谐振和声学负载。
-
